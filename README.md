@@ -9,3 +9,4 @@ This repository will help you with tracking votes on top.gg for your Discord Bot
 ```
 TOKEN="YOUR_TOKEN"
 ```
+[![Discord Banner 2](https://discord.com/api/guilds/1254800755894779954/widget.png?style=banner2)](https://discord.com/invite/TDWkb2aGHr)
